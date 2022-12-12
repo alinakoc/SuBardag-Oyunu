@@ -1,0 +1,22 @@
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.exe.config
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.pdb
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.Form1.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.pdb
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.exe.config
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.exe
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\bin\Debug\BardakOyunu.pdb
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.Form1.resources
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.exe
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\BardakOyunu\BardakOyunu\obj\Debug\BardakOyunu.pdb
